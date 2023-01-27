@@ -57,7 +57,7 @@ CREATE TABLE SpotifyClone.historico_reproducoes(
 
 INSERT INTO SpotifyClone.artistas(nome_artista)
 VALUES
-  ('Beyonce'),
+  ('Beyoncé'),
   ('Queen'),
   ('Elis Regina'),
   ('Baco Exu do Blues'),

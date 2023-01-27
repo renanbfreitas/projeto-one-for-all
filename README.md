@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/static/v1?label=Objetivo&message=Contexto&color=blue&style=for-the-badge&logo=github"/>
 <p></p>
 
-Neste projeto foi desenvolvido um banco de dados do spotify, e a normalização de tabelas formais e montagens de queries com os conceitos de SQL.
+Neste projeto foi desenvolvido um banco de dados do spotify, e a normalização de tabelas formais e montagens de queries com os conceitos de SQL. 
 
 ---   
 <div align="center">

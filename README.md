@@ -16,3 +16,4 @@ Neste projeto foi desenvolvido um banco de dados do spotify, e a normalização 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" height="60"//>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"//>
 </div>
+
